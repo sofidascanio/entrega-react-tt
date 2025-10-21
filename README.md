@@ -7,3 +7,5 @@ Para instalar local:
     npm install # para instalar dependencias
     npm run dev # para correr aplicacion
 ```
+
+Pagina: [Netlify](https://lucent-strudel-6e7f88.netlify.app/)
