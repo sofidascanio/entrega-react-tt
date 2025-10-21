@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Remera básica blanca",
+    "price": 8500,
+    "category": "remera",
+    "description": "Remera de algodón 100% con corte clásico y cuello redondo.",
+    "imageUrl": "/images/remera-blanca.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Pantalón jogger negro",
+    "price": 15500,
+    "category": "pantalon",
+    "description": "Jogger de algodón con puños elastizados y cordón ajustable.",
+    "imageUrl": "/images/jogger-negro.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Buzo oversize gris",
+    "price": 18999.99,
+    "category": "buzo",
+    "description": "Buzo de friza liviana, estilo oversize con capucha.",
+    "imageUrl": "/images/buzo-oversize.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Campera de jean clásica",
+    "price": 27999,
+    "category": "campera",
+    "description": "Campera de denim azul con botones metálicos y bolsillos frontales.",
+    "imageUrl": "/images/campera-jean.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Short deportivo azul",
+    "price": 9500,
+    "category": "short",
+    "description": "Short liviano con cintura elástica, ideal para entrenamiento.",
+    "imageUrl": "/images/short-deportivo.png"
+  },
+  {
+    "id": "6",
+    "name": "Remera estampada vintage",
+    "price": 9900,
+    "category": "remera",
+    "description": "Remera de algodón con estampado retro y fit relajado.",
+    "imageUrl": "/images/remera-vintage.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Pantalón cargo beige",
+    "price": 18200,
+    "category": "pantalon",
+    "description": "Pantalón con bolsillos laterales y tela resistente tipo gabardina.",
+    "imageUrl": "/images/pantalon-beige.png"
+  },
+  {
+    "id": "8",
+    "name": "Camisa de lino celeste",
+    "price": 21500,
+    "category": "camisa",
+    "description": "Camisa liviana de lino con botones y corte regular.",
+    "imageUrl": "/images/camisa-lino.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Buzo con cierre y capucha",
+    "price": 20450.5,
+    "category": "buzo",
+    "description": "Buzo con cierre frontal, capucha ajustable y bolsillos canguro.",
+    "imageUrl": "/images/buzo-capucha.webp"
+  },
+  {
+    "id": "10",
+    "name": "Campera inflable liviana",
+    "price": 32500,
+    "category": "campera",
+    "description": "Campera inflable ultraliviana con relleno sintético y cierre YKK.",
+    "imageUrl": "/images/campera-inflable.webp"
+  }
+]
