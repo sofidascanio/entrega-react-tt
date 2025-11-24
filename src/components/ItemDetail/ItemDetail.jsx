@@ -5,9 +5,14 @@ export const ItemDetail = ({ detail }) => {
 
     const { addItem } = useCartContext();
     
+    const handleAdd = (quantity) => {
+        addItem({ ...detail, quantity })
+    }
+
     return (
         <Item {...detail}>
-            <button onClick={() => addItem(detail)}> Enviar al Carrito </button> 
+            {/* <button onClick={() => addItem(detail)}> Enviar al Carrito </button>  */}
+            <Count btnText={"Agregar al carrito"} onConfirm={handleAdd} />
         </Item>
     );
 };
