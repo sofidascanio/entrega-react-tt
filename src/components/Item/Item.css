@@ -59,11 +59,12 @@
     transform: translateY(-4px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
   }
-}
 
-.product-title {
-  font-size: 1.125rem;
-  font-weight: 600;
-  color: #111827;
-  margin: 1rem 1rem 0.5rem;
+   .product-title {
+    text-align: left;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #111827;
+    margin: 1rem 1rem 0.5rem;
+  }  
 }

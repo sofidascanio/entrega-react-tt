@@ -66,7 +66,8 @@ export const CartProvider = ({ children }) => {
         clearCart, 
         getTotalItems,
         deleteItem, 
-        total
+        total,
+        checkout
     }
 
     return (
