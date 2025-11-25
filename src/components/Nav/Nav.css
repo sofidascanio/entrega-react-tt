@@ -7,6 +7,30 @@ nav {
   z-index: 100;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 
+  .nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* El menú queda centrado */
+    position: relative;
+  }
+
+  .logo {
+    position: absolute;
+    left: 0; /* SE VA A LA IZQUIERDA */
+  }
+
+  .logo a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #111827;
+    text-decoration: none;
+    letter-spacing: 2px;
+  }
+
+  .logo a:hover {
+    color: #000;
+  }
+
   ul {
     list-style: none;
     display: flex;

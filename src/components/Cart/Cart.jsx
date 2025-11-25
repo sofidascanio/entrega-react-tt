@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { useCartContext } from "../../context/CartContext/useCartContext";
-import { Item } from "../Item/Item";
 import "./Cart.css"
 
 export const Cart = () => {
@@ -29,7 +28,7 @@ export const Cart = () => {
                     </article>
                 ))
             ) : (
-                <p>Tu carrito está vacío</p>
+                <p className="empty-cart">Tu carrito está vacío</p>
             )}
 
             {cart.length ? (

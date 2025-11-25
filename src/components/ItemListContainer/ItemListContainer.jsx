@@ -21,7 +21,6 @@ export const ItemListContainer = () => {
 
     return (
         <section className="item-list-container"> 
-            <h1> Bienvenidos a Estilo </h1>
             <div>
                 <ItemList list={products} />
             </div>
